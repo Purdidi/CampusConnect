@@ -1,0 +1,21 @@
+# React / Node
+node_modules/
+Frontend/campusconnect/node_modules/
+Frontend/campusconnect/dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# Build files
+target/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
